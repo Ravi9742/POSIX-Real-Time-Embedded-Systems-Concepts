@@ -1,1 +1,1 @@
-Cheddar tool download can be found via ttps://beru.univ-brest.fr/cheddar/#RefInstall
+Cheddar tool download can be found via [Cheddar](https://beru.univ-brest.fr/cheddar/#RefInstall)
